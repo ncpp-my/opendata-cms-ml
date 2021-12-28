@@ -4,8 +4,8 @@ These notebooks were developed by three data science interns from INTEC in Decem
 
 |Notebook|Open|Contributor|
 |:--|:--|:--|
-|Boosted Decision Trees (using SkLearn)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//ncpp-my/opendata-cms-ml/tree/master/notebooks/ML_BDT_PY.ipynb)|Alma Qasreena|
-|Support Vector Machines (using SkLearn)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//ncpp-my/opendata-cms-ml/tree/master/notebooks/ML_SVM_PY.ipynb)|Sarvin Gunasekar|
-|ROOT's TMVA|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//ncpp-my/opendata-cms-ml/tree/master/notebooks/ML_TMVA.ipynb)|Hilmi Aziz|
+|Boosted Decision Trees (using SkLearn)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/master?filepath=notebooks/ML_BDT_PY.ipynb/HEAD)|Alma Qasreena|
+|Support Vector Machines (using SkLearn)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//ncpp-my/opendata-cms-ml/master?filepath=notebooks/ML_SVM_PY.ipynb/HEAD)|Sarvin Gunasekar|
+|ROOT's TMVA|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//ncpp-my/opendata-cms-ml/master?filepath=notebooks/ML_TMVA.ipynb/HEAD)|Hilmi Aziz|
 
 **Under Construction **
