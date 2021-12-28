@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+          - conda-forge
+dependencies:
+        - numpy
+        - pandas
+        - hdf5
+        - matplotlib
+        - scikit-learn
+        - root
+        - tensorflow
+        - keras
