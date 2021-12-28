@@ -1,6 +1,6 @@
 numpy
 pandas
-hdf5
+uproot
 matplotlib
 scikit-learn
 root
