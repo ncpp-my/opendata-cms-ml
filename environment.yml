@@ -7,6 +7,5 @@ dependencies:
         - hdf5
         - matplotlib
         - scikit-learn
-        - root
         - tensorflow
         - keras
