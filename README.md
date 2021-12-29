@@ -8,8 +8,8 @@ To launch the notebooks, click the Binder badges below.
 
 |Notebook|Author|Launch|
 |:--|:--|:--|
-|Boosted Decision Trees (using SkLearn)|Alma Qasreena|[![Binder](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/HEAD?labpath=notebooks%2FML_BDT_PY.ipynb)|
+|Boosted Decision Trees (using SkLearn)|Alma Qasreena|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/HEAD?labpath=notebooks%2FML_BDT_PY.ipynb)|
 |Support Vector Machines (using SkLearn)|Sarvin Gunasekar|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/HEAD?labpath=notebooks%2FML_SVM_PY.ipynb)|
-|ROOT's TMVA|Hilmi Aziz|[![Binder](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/ROOT?labpath=notebooks%2FML_TMVA.ipynb)|
+|ROOT's TMVA|Hilmi Aziz|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncpp-my/opendata-cms-ml/ROOT?labpath=notebooks%2FML_TMVA.ipynb)|
 
 **UNDER CONSTRUCTION**
